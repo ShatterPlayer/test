@@ -1,0 +1,4 @@
+div#sandbox-container, div#sandbox-container > div {
+    width: 100%;
+    height: 100%;
+}
